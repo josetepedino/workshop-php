@@ -1,0 +1,2 @@
+# workshop-php
+WorkShop OpenShift
